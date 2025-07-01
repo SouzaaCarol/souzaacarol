@@ -6,10 +6,10 @@ Sou apaixonada por back-end e dados, e tô focada em aprender cada vez mais sobr
 ### 💻 Tecnologias que uso ou já tive contato:
 
 **Back-end:**  
-Java ☕ | Spring Boot 🌱 | Python 🐍 | C 💻 | PHP 🐘 | C# 🔧  
+Java ☕ | Python 🐍 | C 💻 | PHP 🐘 | C# 🔧  
 
 **Front-end:**  
-HTML 💖 | CSS 🎀 | JavaScript ⚡ | Angular (iniciando) 🚀  
+HTML 💖 | CSS 🎀 | JavaScript ⚡  
 
 **Banco de Dados:**  
 SQL | MySQL | PostgreSQL 🛢️  
@@ -20,8 +20,7 @@ Git | GitHub | Bootstrap 🌸
 
 ### 📚 Estou estudando mais sobre:
 
-- 🐼 Bibliotecas Python (Pandas, NumPy, Matplotlib)  
-- 🌐 Angular pra virar dev full stack  
+- 🐼 Bibliotecas Python (Pandas, NumPy, Matplotlib)   
 - ☕ Java com foco em back-end  
 - 🧠 Consultas SQL avançadas  
 - ☁️ AWS e computação em nuvem  
