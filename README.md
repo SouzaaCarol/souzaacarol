@@ -1,49 +1,58 @@
-## Oii galerinhaa meu nome é Ana Carolina, mas pode me chamar de Carol💗✨  
-Tenho 21 anos e tô cursando Análise e Desenvolvimento de Sistemas.  
-Sou apaixonada por back-end e dados, e tô focada em aprender cada vez mais sobre bancos de dados relacionais e tudo que envolve essa área, com muita vontade de crescer na programação!
+<h2 align="left">Oi! Eu sou a Ana Carolina 🩷</h2>
 
+###
 
-### 💻 Tecnologias que uso ou já tive contato:
+<p align="left">Atualmente curso Análise e Desenvolvimento de Sistemas e estou focada em evoluir como desenvolvedora, principalmente no universo de back-end e bancos de dados. Sou apaixonada por tecnologia e adoro transformar dados em soluções. 🚀<br><br>🔍 No momento, estou me especializando em:<br><br>Java (foco em back-end)<br><br>Python (Pandas, NumPy, Matplotlib)<br><br>Consultas SQL avançadas<br><br>Modelagem e análise de dados<br><br>Primeiros passos em AWS e computação em nuvem<br><br>💻 Tecnologias que uso ou já tive contato:<br>Back-end:<br>Java ☕ | Python 🐍 | C 💻 | PHP 🐘 | C# 🔧<br><br>Front-end:<br>HTML 💖 | CSS 🎀 | JavaScript ⚡<br><br>Banco de Dados:<br>SQL | MySQL 🛢️<br><br>Ferramentas & Frameworks:<br>Git | GitHub | Bootstrap 🌸<br><br>📫 Fala comigo:<br>carol22022004@gmail.com</p>
 
-**Back-end:**  
-Java ☕ | Python 🐍 | C 💻 | PHP 🐘 | C# 🔧  
+###
 
-**Front-end:**  
-HTML 💖 | CSS 🎀 | JavaScript ⚡  
-
-**Banco de Dados:**  
-SQL | MySQL | PostgreSQL 🛢️  
-
-**Ferramentas/Frameworks:**  
-Git | GitHub | Bootstrap 🌸
-
-
-### 📚 Estou estudando mais sobre:
-
-- 🐼 Bibliotecas Python (Pandas, NumPy, Matplotlib)   
-- ☕ Java com foco em back-end  
-- 🧠 Consultas SQL avançadas  
-- ☁️ AWS e computação em nuvem  
-- 📊 Modelagem e análise de dados
-
-📫 Como entrar em contato comigo **carol22022004@gmail.com**
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-
-
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=souzaacarol&show_icons=true&theme=radical&locale=pt-br&custom_title=GitHub%20Stats%20da%20Carol" 
-    alt="GitHub Stats" 
-    style="width: 45%; min-width: 300px;"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzaacarol&layout=compact&theme=radical&locale=pt-br&custom_title=Linguagens%20Mais%20Usadas" 
-    alt="Top Langs" 
-    style="width: 45%; min-width: 300px;"
-  />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3B2dm51Ym1rZXZtaHg5NTh0aGYzaWFvMmE0MXBzM2N6bXFwZXRxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kZqbBT64ECtjy/giphy.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=SouzaaCarol&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SouzaaCarol&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SouzaaCarol/SouzaaCarol/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SouzaaCarol/SouzaaCarol/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SouzaaCarol/SouzaaCarol/output/pacman-contribution-graph.svg">
+</picture>
+
+###
