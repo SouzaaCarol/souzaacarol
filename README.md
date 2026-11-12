@@ -133,8 +133,8 @@ Projeto de análise de dados voltado à auditoria de cobranças de taxas MDR em 
 
 ## Formação
 
-- Tecnologia em Análise e Desenvolvimento de Sistemas, *instituição*
-- Ciência de Dados (cursando), *instituição*
+- Tecnologia em Análise e Desenvolvimento de Sistemas, *Unicid*
+- Ciência de Dados (cursando), *Unicid*
 
 ---
 
